@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+[comment]: subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Caroline Stoklosinski. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a current iCAN student at the University of Illinois at Urbana-Champaign. I graduated with my Bachelors in Information science in 2023, and have since been working my way towards learning computer science. My summer research will be spent at the Parasol Lab, under Dr. Amato's mentorship, where I will working on a project in robot task and motion planning. My current hobbies include traveling, knitting, and creating new programming projects!
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
