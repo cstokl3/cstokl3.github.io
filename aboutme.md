@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-[comment]: subtitle: 
 ---
 
 My name is Caroline Stoklosinski. 
