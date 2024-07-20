@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Implementing Object Spawning and Environment Adaptation in a VR Robot Learning Project"
+title: Implementing Object Spawning and Environment Adaptation in a VR Robot Learning Project
 subtitle: Final Project Poster
 cover-img: /assets/img/path_03.png
+thumbnail-img: /assets/img/unityarm_thumbnail.png
 share-img: /assets/img/path_03.png
 author: Caroline Stoklosinski
 ---
