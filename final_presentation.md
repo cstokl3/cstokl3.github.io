@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Implementing Object Spawning and Environment Adaptation in a VR Robot Learning Project
 subtitle: Final Project Poster
 cover-img: /assets/img/path_03.png
