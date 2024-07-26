@@ -2,16 +2,17 @@
 layout: page
 title: Implementing Object Spawning and Environment Adaptation in a VR Robot Learning Project
 subtitle: Final Project Poster
-cover-img: /assets/img/path_03.png
+cover-img: /assets/img/unity_cloud.png
 thumbnail-img: /assets/img/unityarm_thumbnail.png
-share-img: /assets/img/path_03.png
+share-img: /assets/img/unity_cloud.png
 author: Caroline Stoklosinski
 ---
 
-# Implementing Object Spawning and Environment Adaptation in a VR Robot Learning Project
+# Object Spawning and Environment Adaptation for an XR-Based System 
 
 ## Authors and Affiliations
-- **Caroline Stoklosinski**, The University of Illinois at Urbana-Champaign
+- **Caroline Stoklosinski, Courtney McBeth, Nancy Amato, and Marco Morales**, The University of Illinois at Urbana-Champaign
+![Parasol Lab](assests/img/parasol_lab_scrsht.png)
 
 ## Introduction
 ### Background
