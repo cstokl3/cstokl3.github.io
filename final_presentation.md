@@ -16,7 +16,7 @@ author: Caroline Stoklosinski
 
 ## Introduction
 ### Background
-The larger VR project aims to implement a UR5 robot arm in a virtual environment, where the robot can learn from a user interacting with it.
+The larger XR project aims to develop a system which collects data from human-described trajectories to aid motion planning algorithms with learning from demonstration. 
 
 ### Objectives
 This summer, my project focused on adding a subset of functionalities to the larger VR project:
