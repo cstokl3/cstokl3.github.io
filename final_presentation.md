@@ -12,7 +12,7 @@ author: Caroline Stoklosinski
 
 ## Authors and Affiliations
 - **Caroline Stoklosinski, Courtney McBeth, Nancy Amato, and Marco Morales**, The University of Illinois at Urbana-Champaign
-![Parasol Lab](assests/img/parasol_lab_scrsht.png)
+![Parasol Lab](/assets/img/parasol_lab_scrsht.png)
 
 ## Introduction
 ### Background
@@ -40,7 +40,7 @@ N/A
 
 ## Results
 ### Data Presentation
-![Robot Gripper](assests/img/gripper_screenshot.png)
+![Robot Gripper](/assets/img/gripper_screenshot.png)
 Screenshot of the gripper on UR5 robot arm.
 
 
