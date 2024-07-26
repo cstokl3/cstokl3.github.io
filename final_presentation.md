@@ -27,7 +27,7 @@ This summer, my project focused on adding a subset of functionalities to the lar
 ### Design/Procedure
 The project was divided into three main tasks:
 1. **Object Spawning:** Created 3D models of various objects (coffee cup, laptop, knife) and integrated them into the VR environment.
-2. **Environment Adaptation:** Developed algorithms to switch the environment (kitchen, office room, living room) based on the object presented to the robot.
+2. **Environment Adaptation:** Developed scripts to switch the environment (kitchen, office room, living room) based on the object presented to the robot.
 3. **Gripper Joint Implementation:** Enhanced the VR interaction by adding a gripper joint to allow the user to pick up and move objects within the virtual space.
 
 ### Materials
@@ -39,8 +39,9 @@ N/A
 
 ## Results
 ### Data Presentation
-![VR Environment Screenshot](path/to/vr_environment_screenshot.png)
-Screenshot of the VR environment with the UR5 robot and the newly spawned objects.
+![Robot Gripper](assests/img/gripper_screenshot.png)
+Screenshot of the gripper on UR5 robot arm.
+
 
 ### Analysis
 - Successfully integrated object spawning, environment adaptation, and gripper joint functionalities.
@@ -59,7 +60,7 @@ The added functionalities significantly improve the versatility and learning pot
 My parts of this VR summer project successfully enhanced the VR robot learning project by adding object spawning, environment adaptation, and gripper joint functionalities.
 
 ### Implications
-These enhancements allow the VR robot to learn from a wider range of interactions, potentially leading to more advanced and adaptable robotic systems. This system will allow for training robots in a virtual environment to later be implemented in the real world - such as used for assisting those who are older/have disabilities with any task they may need completed - things such as cutting 
+These enhancements allow the VR robot to learn from a wider range of interactions, potentially leading to more advanced and adaptable robotic systems. This system will allow for training robots in a virtual environment to later be implemented in the real world - such as used for assisting those who are older/have disabilities with any task they may need completed - things such as cutting ingredients, assisting with lifting items, etc.
 
 ### Future Research
 - Expanding the range of objects and environments.
@@ -67,7 +68,7 @@ These enhancements allow the VR robot to learn from a wider range of interaction
 - Integrating more advanced machine learning algorithms for improved learning from user interactions.
 
 ## Acknowledgments
-A special thank you to my mentor, Courtney McBeth; my PI's Dr. Nancy Amato and Dr. Marco Maroales for supporting this project, and my fellow students on this project Grace He and André Corrêa Santos. 
+A special thank you to my mentors, Courtney McBeth Isaac Ngui; my PI's Dr. Nancy Amato and Dr. Marco Morales for supporting this project, and my fellow students on this project Grace He and André Corrêa Santos. 
 
 ## Contact Information
 For further inquiries, please contact:
