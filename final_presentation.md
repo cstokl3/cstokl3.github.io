@@ -12,7 +12,7 @@ author: Caroline Stoklosinski
 
 ## Authors and Affiliations
 - **Caroline Stoklosinski, Courtney McBeth, Nancy Amato, and Marco Morales**, The University of Illinois at Urbana-Champaign
-![Parasol Lab](/assets/img/parasol_lab_scrsht.png)
+![Parasol Lab](/assets/img/parasol_lab_scrsht.png){:height="300px" width="200px"}
 
 ## Introduction
 ### Background
@@ -35,12 +35,9 @@ The project was divided into three main tasks:
 - VR development software (e.g., Unity, Unreal Engine)
 - UR5 robot arm simulation tools
 
-### Participants
-N/A
-
 ## Results
 ### Data Presentation
-![Robot Gripper](/assets/img/gripper_screenshot.png)
+![Robot Gripper](/assets/img/gripper_screenshot.png){:height="300px" width="200px"}
 Screenshot of the gripper on UR5 robot arm.
 
 
