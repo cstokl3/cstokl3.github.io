@@ -32,7 +32,7 @@ The project was divided into three main tasks:
 3. **Gripper Joint Implementation:** Enhanced the VR interaction by adding a gripper joint to allow the user to pick up and move objects within the virtual space.
 
 ### Materials
-- VR development software (e.g., Unity, Unreal Engine)
+- VR development software (e.g., Unity)
 - UR5 robot arm simulation tools
 
 ## Results
