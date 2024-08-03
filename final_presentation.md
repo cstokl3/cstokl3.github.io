@@ -39,8 +39,8 @@ The project was divided into three main tasks:
 3. **Gripper Joint Implementation:** Enhanced the VR interaction by adding a gripper joint to allow the user to pick up and move objects within the virtual space.
 
 <p float="left">
-    <img src="/assets/img/gripper_swap_gif.gif" width="200">
-    <img src="/assets/img/gripper_movement_gif.gif" width="100">
+    <img src="/assets/img/gripper_swap_gif.gif" width="250">
+    <img src="/assets/img/gripper_movement_gif.gif" width="250">
 </p>
 
 ### Materials
