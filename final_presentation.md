@@ -29,8 +29,19 @@ This summer, my project focused on adding a subset of functionalities to the lar
 ### Design/Procedure
 The project was divided into three main tasks:
 1. **Object Spawning:** Created 3D models of various objects (coffee cup, laptop, knife) and integrated them into the VR environment.
+
+![Object Gif](/assets/img/object_swapper_gif.gif){:height="300px" width="300px"}
+
 2. **Environment Adaptation:** Developed scripts to switch the environment (kitchen, office room, living room) based on the object presented to the robot.
+
+![Room Gif](/assets/img/room_swapper_gif.gif){:height="300px" width="300px"}
+
 3. **Gripper Joint Implementation:** Enhanced the VR interaction by adding a gripper joint to allow the user to pick up and move objects within the virtual space.
+
+<p float="left">
+    <img src="/assets/img/gripper_swap_gif.gif" width="200">
+    <img src="/assets/img/gripper_movement_gif.gif" width="100">
+</p>
 
 ### Materials
 - VR development software (e.g., Unity)
@@ -40,9 +51,17 @@ The project was divided into three main tasks:
 ### Data Presentation
 ![Robot Gripper](/assets/img/gripper_screenshot.png){:height="200px" width="300px"}
 
+<p float="left">
+    <img src="/assets/img/gripper_1.png" width="100">
+    <img src="/assets/img/gripper_2_scene.png" width="100">
+    <img src="/assets/img/gripper_3.png" width="100">
+</p>
+
 ### Analysis
 - Successfully integrated object spawning, environment adaptation, and gripper joint functionalities.
 - The VR robot can now interact with various objects and adapt to different environments, enhancing its learning capabilities from user interactions.
+
+![Gripper Movement Gif](/assets/img/gripper_movement_gif.gif){:height="300px" width="300px"}
 
 ## Discussion
 ### Interpretation
